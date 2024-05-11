@@ -1,0 +1,7 @@
+[package]
+name = "unturned-stats"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+steamworks = { git = "ssh://git@github.com/ymo-4/steamworks-rs.git", branch = "merged-mms" }
